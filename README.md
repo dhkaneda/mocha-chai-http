@@ -2,7 +2,7 @@
 
 Docker image including mocha, chai and chai-http
 
-You can use this image to test an applicaiton requirign mocha + chai + chai-http.
+You can use this image to test an application requiring mocha + chai + chai-http.
 Map your source code to /app when running a container with this image:
 
 ```
